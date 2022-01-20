@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Asley's+GitHub+Profile!✨)](https://git.io/typing-svg)
 <h1 align="center">Hi! I'm Asley👋 </h1>
 <p><img align="center">
-<image width="59%" src="https://github.com/aslynicole/aslynicole/blob/main/S.png" alt="aslynicole" />
+<image width="89%" src="https://github.com/aslynicole/aslynicole/blob/main/S.png" alt="aslynicole" />
 </p>
 <h3 align='left'>🚀 About Me</h3>
 
