@@ -15,8 +15,8 @@
 <h1 align="center"></h1>
 <h3 align="center">💜💜💜</h3>
 <h1 align="center"></h1> 
-![alt text](S.png)
 </p>
+![alt text](S.png)
 <h2 align='center'><i> 📊 My Github stats</i></h2>
 <br>
 <p align="center">
