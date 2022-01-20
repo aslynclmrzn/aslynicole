@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Asley's+GitHub+Profile!)](https://git.io/typing-svg)
 <h1 align="center">Hi! I'm Asley👋 </h1>
 <h2 align="left"> 🚀 About Me
 </h2>
@@ -24,8 +24,15 @@
 <h2 align="left"> 📈 GitHub Statistics
   
 </h2>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aslynicole&show_icons=true&theme=dark&title_color=e58124&text_color=ffffff&bg_color=08000a&locale=en" alt="aslynicole" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aslynicole&theme=dark" alt="aslynicole" /> 
+
+<br>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aslynicole&show_icons=true&theme=dark&title_color=e58124&text_color=ffffff&bg_color=08000a&locale=en" alt="aslynicole"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aslynicole&theme=dark" alt="aslynicole" />
+</p>
+
+
+
 </p>
 
 <p>
