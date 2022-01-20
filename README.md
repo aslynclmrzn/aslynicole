@@ -15,7 +15,7 @@
   <h3 align="left"><i>Connect with me!</i></h3>
   <a href="mailto:ashnicolemarzan@gmail.com">
   <img border ="0" alt="Asley Nicole Marzan" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
-<h3 align='left'><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">My Github Statistics</h3>
+<h3 align='left'><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬</h3>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aslynicole&show_icons=true&theme=radical" alt="aslynicole"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aslynicole&theme=radical" alt="aslynicole" />
