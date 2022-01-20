@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslynicole&label=Profile%20views&color=471363&style=flat" alt="aslynicole" /> </p>
 
 ![Banner Image](https://github.com/aslynicole/aslynicole/blob/main/S.png)
-
+<br>
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
 📫 Email address :   ashnicolemarzan@gmail.com
@@ -19,7 +19,7 @@
 <h1 align="center"></h1> 
 </p>
 
-<h2 align='left'>📊 My Github stats</h2>
+<h2 align='left'>📊 My Github stats <br> </h2>
 <br>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aslynicole&show_icons=true&theme=radical" alt="aslynicole"/>
