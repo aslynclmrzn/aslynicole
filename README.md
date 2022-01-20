@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Asley's+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Asley's+GitHub+Profile!+ ✨)](https://git.io/typing-svg)
 <h1 align="center">Hi! I'm Asley👋 </h1>
 
 <h3 align='left'>🚀 About Me</h3>
@@ -12,7 +12,7 @@
 ![Banner Image](https://github.com/aslynicole/aslynicole/blob/main/S.png)
 <br>
 <p align="left"> 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><i>Connect with me!</i></h3>
 📫 Email address :   ashnicolemarzan@gmail.com
 <h1 align="center"></h1>
 <h3 align="center">💜💜💜</h3>
