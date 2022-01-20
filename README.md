@@ -18,9 +18,9 @@
 <h3 align="center">💜💜💜</h3>
 <h1 align="center"></h1> 
 </p>
-
-<h2 align='left'>📊 My Github stats <br> </h2>
-<br>
+<h1 align="center"></h1> 
+<h2 align='left'>📊 My Github stats  </h2>
+<h1 align="center"></h1> 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aslynicole&show_icons=true&theme=radical" alt="aslynicole"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aslynicole&theme=radical" alt="aslynicole" />
@@ -29,7 +29,9 @@
 
 </p>
 <p><img align="center">
+  <h1 align="center"></h1> 
   <h2 align='center'>⚡️<i>Stay awesome!</i>⚡️</h2>
+  <h1 align="center"></h1> 
   <image width="99%" src="https://activity-graph.herokuapp.com/graph?username=aslynicole&theme=react-dark" alt="aslynicole" />
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
