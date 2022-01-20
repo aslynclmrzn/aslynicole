@@ -32,6 +32,7 @@
 </p>
 
 </p>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=aslynicole&theme=react-dark" alt="aslynicole" />
+<p><img align="center">
+  <image width="79%" src="https://activity-graph.herokuapp.com/graph?username=aslynicole&theme=react-dark" alt="aslynicole" />
 <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
