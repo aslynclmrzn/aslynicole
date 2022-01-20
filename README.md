@@ -11,9 +11,9 @@
 
 ![Banner Image](https://github.com/aslynicole/aslynicole/blob/main/S.png)
 
+<p align="left"> 
 <h3 align="left">Connect with me:</h3>
 📫 Email address :   ashnicolemarzan@gmail.com
-<p align="left"> 
 <h1 align="center"></h1>
 <h3 align="center">💜💜💜</h3>
 <h1 align="center"></h1> 
