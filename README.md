@@ -26,7 +26,7 @@
   <h3 align='left'><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">My Github Contribution Graph</h3>
   <h3 align='center'></h3>
   <image width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aslynicole&theme=monokai" alt="aslynicole" />
-  h3 align="left"><i>Connect with me!</i></h3>
+ <h3 align="left"><i>Connect with me!</i></h3>
   <a href="mailto:ashnicolemarzan@gmail.com@gmail.com">
   <img border ="0" alt="ashnicolemarzan@gmail.com" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
   <h3 align='center'>⚡️<i>Stay awesome!</i>⚡️</h3>
