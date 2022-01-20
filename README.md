@@ -7,7 +7,7 @@
 🔎 Always curious.
 <h2 align='center'><i> “Experience is the name everyone gives to their mistakes.” – Oscar Wilde </i></h2>
 <p><img align="center">
-  <img src="https://komarev.com/ghpvc/?username=aslynicole&color=blueviolet" alt="Github views" />
+  <img src="https://komarev.com/ghpvc/?username=aslynicole&color=lightgrey" alt="Github views" />
 </p>
 <br>
 <p><img align="center">
