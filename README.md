@@ -34,5 +34,7 @@
 </p>
 <p><img align="center">
   <image width="99%" src="https://activity-graph.herokuapp.com/graph?username=aslynicole&theme=react-dark" alt="aslynicole" />
-<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+
+<h2 align='center'>⚡️<i>Stay awesome!</i>⚡️</h2>
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
