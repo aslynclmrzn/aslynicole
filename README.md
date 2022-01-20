@@ -4,7 +4,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <h3 align="center">I am a first-year Computer Engineering student at the Polytechnic University of the Philippines.</h3>
 * 🔮 I was born in Sta. Mesa, Manila on June 13, 2003.
-* Always curious.
+* 🔎 Always curious.
 <h2 align='center'><i> “Experience is the name everyone gives to their mistakes.” – Oscar Wilde </i></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslynicole&label=Profile%20views&color=471363&style=flat" alt="aslynicole" /> </p>
 <br>
