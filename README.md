@@ -1,11 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Asley's+GitHub+Profile!✨)](https://git.io/typing-svg)
 <h2 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-<h3 align="center">
-## 🚀 About Me</h3>
-👩‍🎓I am a first-year Computer Engineering student at the Polytechnic University of the Philippines.
-🔮 I was born in Sta. Mesa, Manila on June 13, 2003.
-🔎 Always curious.</h3>
+## 🚀 About Me
+* 👩‍🎓I am a first-year Computer Engineering student at the Polytechnic University of the Philippines.
+* 🔮 I was born in Sta. Mesa, Manila on June 13, 2003.
+* 🔎 Always curious.</h3>
 <h2 align='center'><i> “Experience is the name everyone gives to their mistakes.” – Oscar Wilde </i></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslynicole&label=Profile%20views&color=471363&style=flat" alt="aslynicole" /> </p>
 <br>
