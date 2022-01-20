@@ -6,7 +6,9 @@
 🔮 I was born in Sta. Mesa, Manila on June 13, 2003.
 🔎 Always curious.
 <h2 align='center'><i> “Experience is the name everyone gives to their mistakes.” – Oscar Wilde </i></h2>
-![ProfileViews](https://komarev.com/ghpvc/?username=aslynicole&color=blueviolet)
+<p><img align="center">
+  <img src="https://komarev.com/ghpvc/?username=aslynicole&color=blueviolet" alt="Github views" />
+</p>
 <br>
 <p><img align="center">
 <image width="94%" src="https://github.com/aslynicole/aslynicole/blob/main/S.png" alt="aslynicole" />
