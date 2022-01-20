@@ -11,15 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 📫 Email address :   ashnicolemarzan@gmail.com
-<p align="left">
+<p align="left"> 
 <h1 align="center"></h1>
 <h3 align="center">💜💜💜</h3>
 <h1 align="center"></h1> 
 </p>
-
-<p align="center">
-![alt text](S.png)
-</p>
+!(S.png)
 
 <h2 align='center'><i> 📊 My Github stats</i></h2>
 <br>
