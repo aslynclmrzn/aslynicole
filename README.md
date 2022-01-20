@@ -28,9 +28,9 @@
 
 </p>
 <p><img align="center">
-
-  <h3 align='center'>⚡️<i>Stay awesome!</i>⚡️</h3>
+  <h3 align='left'><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">My Github Contribution Statistics</h3>
   <h3 align='center'></h3>
   <image width="99%" src="https://activity-graph.herokuapp.com/graph?username=aslynicole&theme=react-dark" alt="aslynicole" />
+  <h3 align='center'>⚡️<i>Stay awesome!</i>⚡️</h3>
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
