@@ -11,14 +11,14 @@
 
 <h3 align="left">Connect with me:</h3>
 📫 Email address :   ashnicolemarzan@gmail.com
+![alt text](S.png)
 <p align="left"> 
 <h1 align="center"></h1>
 <h3 align="center">💜💜💜</h3>
 <h1 align="center"></h1> 
 </p>
-!(S.png)
 
-<h2 align='center'><i> 📊 My Github stats</i></h2>
+<h2 align='left'>📊 My Github stats</h2>
 <br>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aslynicole&show_icons=true&theme=radical" alt="aslynicole"/>
