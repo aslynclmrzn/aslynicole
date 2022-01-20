@@ -33,6 +33,6 @@
 
 </p>
 <p><img align="center">
-  <image width="89%" src="https://activity-graph.herokuapp.com/graph?username=aslynicole&theme=react-dark" alt="aslynicole" />
+  <image width="97%" src="https://activity-graph.herokuapp.com/graph?username=aslynicole&theme=radical" alt="aslynicole" />
 <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
