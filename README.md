@@ -11,7 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 📫 Email address :   ashnicolemarzan@gmail.com
-![alt text](S.png)
+
+
+<!--
+<p align=center><a ![alt text](S.png) /></a></p>
+
+!-->
 <p align="left"> 
 <h1 align="center"></h1>
 <h3 align="center">💜💜💜</h3>
