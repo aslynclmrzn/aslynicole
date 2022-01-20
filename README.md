@@ -18,7 +18,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aslynicole&show_icons=true&theme=radical" alt="aslynicole"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aslynicole&theme=radical" alt="aslynicole" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslynicole&theme=tokyonight" />
-  <image width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aslynicole&theme=monokai" alt="aslynicole" />
+  <image width="78%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aslynicole&theme=monokai" alt="aslynicole" />
 </p>
 
 </p>
