@@ -14,8 +14,8 @@
 <p align="left">
 <h1 align="center"></h1>
 <h3 align="center">💜💜💜</h3>
-<h1 align="center"></h1> 
 ![alt text](S.png)
+<h1 align="center"></h1> 
 </p>
 <h2 align='center'><i> 📊 My Github stats</i></h2>
 <br>
