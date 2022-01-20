@@ -14,7 +14,7 @@
 
 
 <!--
-<p align=center><a ![alt text](S.png) /></a></p>
+<p align=center> "https://i.imgur.com/9cyvBLo.png" </p>
 
 !-->
 <p align="left"> 
