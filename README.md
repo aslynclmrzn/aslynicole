@@ -28,7 +28,7 @@
 <p><img align="center">
   <h3 align='left'><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">My Github Contribution Graph</h3>
   <h3 align='center'></h3>
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aslynicole&theme=monokai)
+  <image width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aslynicole&theme=monokai" alt="aslynicole" />
   <h3 align='center'>⚡️<i>Stay awesome!</i>⚡️</h3>
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
