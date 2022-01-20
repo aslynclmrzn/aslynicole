@@ -11,7 +11,11 @@
 </p>
 <br>
 <p><img align="center">
-<image width="98%" src="https://github.com/aslynicole/aslynicole/blob/2eea5b04bca2394ad63450cb1b493a88b71877ec/%EF%BC%B5%EF%BD%8E%EF%BD%8C%EF%BD%89%EF%BD%8D%EF%BD%89%EF%BD%94%EF%BD%85%EF%BD%84%20%EF%BC%A1%EF%BD%82%EF%BD%89%EF%BD%8C%EF%BD%89%EF%BD%94%EF%BD%99.gif" alt="aslynicole" />
+<image width="48%" src="https://github.com/aslynicole/aslynicole/blob/2eea5b04bca2394ad63450cb1b493a88b71877ec/%EF%BC%B5%EF%BD%8E%EF%BD%8C%EF%BD%89%EF%BD%8D%EF%BD%89%EF%BD%94%EF%BD%85%EF%BD%84%20%EF%BC%A1%EF%BD%82%EF%BD%89%EF%BD%8C%EF%BD%89%EF%BD%94%EF%BD%99.gif" alt="aslynicole" />
+<image width="48%" src="https://github.com/aslynicole/aslynicole/blob/e430c6eb77992ab378f8f6559442a08214b1cd53/codewithme.png" alt="aslynicole" />
+</p>
+
+
   <h3 align="left"><i>Connect with me!</i></h3>
   <a href="mailto:ashnicolemarzan@gmail.com">
   <img border ="0" alt="Asley Nicole Marzan" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
