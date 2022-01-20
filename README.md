@@ -13,7 +13,7 @@
 <br>
 <p align="left"> 
 <h3 align="left"><i>Connect with me!</i></h3>
-<a href="mailto:ashnicolemarzan@gmail.com@gmail.com">
+<a href="ashnicolemarzan@gmail.com@gmail.com">
 <img border="0" alt="ashnicolemarzan@gmail.com" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 <h1 align="center"></h1>
 <h3 align="center">💜💜💜</h3>
