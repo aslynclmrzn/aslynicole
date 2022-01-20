@@ -13,13 +13,13 @@
 <br>
 <p align="left"> 
 <h3 align="left"><i>Connect with me!</i></h3>
-<a href="ashnicolemarzan@gmail.com@gmail.com">
+<a href="mailto:ashnicolemarzan@gmail.com@gmail.com">
 <img border="0" alt="ashnicolemarzan@gmail.com" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 <h1 align="center"></h1>
 <h3 align="center">💜💜💜</h3>
 <h1 align="center"></h1> 
 </p>
-<h3 align='left'<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Github stats  </h3>
+<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aslynicole&show_icons=true&theme=radical" alt="aslynicole"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aslynicole&theme=radical" alt="aslynicole" />
