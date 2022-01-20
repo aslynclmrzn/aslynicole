@@ -21,9 +21,8 @@
 <h3 align="center">💜💜💜</h3>
 
 <h1 align="center"></h2>
-<h2 align="left"> 📊 My Github stats
-  
-</h2>
+<h2 align='center'>⚡️<i> 📊 My Github stats</i>⚡️</h2>
+
 
 <br>
 <p align="center">
