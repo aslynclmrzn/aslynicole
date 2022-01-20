@@ -16,7 +16,11 @@
 <h3 align="center">💜💜💜</h3>
 <h1 align="center"></h1> 
 </p>
+
+<p align="center">
 ![alt text](S.png)
+</p>
+
 <h2 align='center'><i> 📊 My Github stats</i></h2>
 <br>
 <p align="center">
