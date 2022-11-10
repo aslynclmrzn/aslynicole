@@ -26,7 +26,7 @@
   <image width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aslynicole&theme=monokai" alt="aslynicole" />
 </p>
 <p><img align="center">
-      <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslynicole&theme=tokyonight" />
+      <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslynicole&theme=tokyonight" />
 </p>
 </p>
 <p><img align="center">
