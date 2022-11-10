@@ -2,8 +2,8 @@
 <h2 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px"> </h2>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <h3 align="left"> 🚀 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞</h3>
-👩‍🎓𝘐 𝘢𝘮 𝘢 𝘧𝘪𝘳𝘴𝘵-𝘺𝘦𝘢𝘳 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 𝘢𝘵 𝘵𝘩𝘦 𝘗𝘰𝘭𝘺𝘵𝘦𝘤𝘩𝘯𝘪𝘤 𝘜𝘯𝘪𝘷𝘦𝘳𝘴𝘪𝘵𝘺 𝘰𝘧 𝘵𝘩𝘦 𝘗𝘩𝘪𝘭𝘪𝘱𝘱𝘪𝘯𝘦𝘴.
-🔮𝘐 𝘸𝘢𝘴 𝘣𝘰𝘳𝘯 𝘪𝘯 𝘚𝘵𝘢. 𝘔𝘦𝘴𝘢, 𝘔𝘢𝘯𝘪𝘭𝘢 𝘰𝘯 𝘑𝘶𝘯𝘦 13, 2003.
+👩‍🎓𝘐 𝘢𝘮 𝘢 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 𝘢𝘵 𝘵𝘩𝘦 𝘗𝘰𝘭𝘺𝘵𝘦𝘤𝘩𝘯𝘪𝘤 𝘜𝘯𝘪𝘷𝘦𝘳𝘴𝘪𝘵𝘺 𝘰𝘧 𝘵𝘩𝘦 𝘗𝘩𝘪𝘭𝘪𝘱𝘱𝘪𝘯𝘦𝘴.
+🔮𝘐 𝘸𝘢𝘴 𝘣𝘰𝘳𝘯 𝘪𝘯 𝘔𝘢𝘯𝘪𝘭𝘢.
 🔎𝘈𝘭𝘸𝘢𝘺𝘴 𝘤𝘶𝘳𝘪𝘰𝘶𝘴.
 <h2 align='center'><i> “Experience is the name everyone gives to their mistakes.” – Oscar Wilde </i></h2>
 <p><img align="center">
@@ -26,7 +26,7 @@
   <image width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aslynicole&theme=monokai" alt="aslynicole" />
 </p>
 <p><img align="center">
-      <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslynicole&theme=tokyonight" />
+      <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslynicole&theme=tokyonight" alt="aslynicole"/>
 </p>
 <p><img align="center">
   <h3 align='center'>⚡️<i>Stay awesome!</i>⚡️</h3>
