@@ -18,7 +18,7 @@
   <h3 align="left"><i>Connect with me!</i></h3>
   <a href="mailto:ashnicolemarzan@gmail.com">
   <img border ="0" alt="Asley Nicole Marzan" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
-<h3>𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬</h3>
+<h3>📊 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬</h3>
 <p align="right">
   <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslynicole&theme=tokyonight" alt="aslynicole"/>
   <img width="32%" src="https://github-readme-stats.vercel.app/api?username=aslynicole&show_icons=true&theme=radical" alt="aslynicole"/>
